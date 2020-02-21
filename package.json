@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "test": "jshint hello.js"
+    "install": "npm install",
+    "script": "npm test"
   },
   "devDependencies": {
     "jshint": "^2.8.0"
